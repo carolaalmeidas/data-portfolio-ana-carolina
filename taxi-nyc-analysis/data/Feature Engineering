@@ -1,6 +1,0 @@
-df['pickup'] = pd.to_datetime(df['tpep_pickup_datetime'])
-df['dropoff'] = pd.to_datetime(df['tpep_dropoff_datetime'])
-
-df['trip_duration_min'] = (df['dropoff'] - df['pickup']).dt.total_seconds() / 60
-
-df['fare_per_mile'] = df['fare_amount'] / df['trip_distance']
