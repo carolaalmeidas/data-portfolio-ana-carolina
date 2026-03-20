@@ -1,1 +1,15 @@
-# data-portfolio-ana-carolina
+# 🚕 NYC Taxi Data Analysis
+
+## Objective
+Analyze taxi trip data to understand patterns and prepare data for modeling.
+
+## Steps
+- Data import using Pandas
+- Data cleaning (missing values, duplicates)
+- Feature engineering (trip duration)
+
+## Tools
+- Python (Pandas)
+
+## Result
+Clean dataset ready for analysis and modeling.
