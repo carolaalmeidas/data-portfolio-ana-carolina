@@ -1,3 +1,0 @@
-df.info()
-df.describe()
-df.isnull().sum()
