@@ -27,4 +27,4 @@ I focus on transforming data into strategic insights that support business decis
 - Data Cleaning & EDA
 
 ## 📬 Contact
-- LinkedIn: [www.linkedin.com/in/ana-carolina-almeida-dos-santos-marins-de-abreu-3171ba177]# data-portfolio-ana-carolina
+- LinkedIn: [www.linkedin.com/in/ana-carolina-almeida-dos-santos-marins-de-abreu-3171ba177] #data-portfolio-ana-carolina
